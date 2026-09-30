@@ -1,0 +1,2 @@
+# No third-party Python packages are required.
+# Render serves this static HTML with Python's built-in HTTP server.
